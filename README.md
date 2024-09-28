@@ -23,9 +23,9 @@ Tech enthusiast and perpetual learner passionate about the ever-evolving landsca
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,dotnet,python,java,php,laravel,spring,angular,vue" />
-    <img src="https://skillicons.dev/icons?i=flutter,selenium" />
-    <img src="https://skillicons.dev/icons?i=gherkin" />
+    <img src="https://skillicons.dev/icons?i=c,dotnet,java,javascript,python,php,laravel,spring,angular,vue" />
+    <img src="https://skillicons.dev/icons?i=flutter,selenium,gherkin" />
+    <img src="https://skillicons.dev/icons?i=mysql,maven" />
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,github,git" /><br>
 </div>
 
