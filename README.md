@@ -23,10 +23,29 @@ Tech enthusiast and perpetual learner passionate about the ever-evolving landsca
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,dotnet,javascript,java,python,php,laravel,symfony,spring,angular,vue" />
-    <img src="https://skillicons.dev/icons?i=flutter,selenium,gherkin" />
-    <img src="https://skillicons.dev/icons?i=mysql,maven" />
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c" alt="C Language" />
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+    <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" />
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+    <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" />
+    <img src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=maven" alt="Maven" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
+    <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <br>
 </div>
 
 <hr/>
