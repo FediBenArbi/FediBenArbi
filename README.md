@@ -23,28 +23,28 @@ Tech enthusiast and perpetual learner passionate about the ever-evolving landsca
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c" alt="C Language" />
-    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
-    <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" />
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
-    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
-    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-    <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" />
-    <img src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin" />
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=maven" alt="Maven" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
-    <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
-    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=c" alt="C Language" title="C Language" />
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" />
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" />
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" />
+    <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" title="Symfony" />
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" />
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" />
+    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" />
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" />
+    <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" title="Selenium" />
+    <img src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin" title="Gherkin" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+    <img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" title="Visual Studio" />
+    <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" title="Eclipse" />
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
     <br>
 </div>
 
