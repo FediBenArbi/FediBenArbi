@@ -1,8 +1,24 @@
-🌟 Actuellement étudiant en Software Architecture Engineering à l'École Supérieure Privée d'Ingénierie et de Technologies - ESPRIT 🚀
+# Hi there, I'm Fedi Ben Arbi 👋
 
-🎓 Diplômé d'une licence en Génie Logiciel et Système d'Information de l'Institut Supérieur des Technologies de l'Information et de la Communication de Borj Cédria 📚
+✨ Currently pursuing studies in Software Architecture Engineering at Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT 🚀
+🎓 Licentiate degree holder in Software Engineering from The Higher Institute of Information Technologies and Communication Borj Cedria 📚
 
-Passionné par la technologie et en apprentissage constant, je suis captivé par l'évolution rapide du secteur de l'informatique. Mon parcours académique m'a mené à l'École Supérieure Privée d'Ingénierie et de Technologies - ESPRIT, où je développe activement mes compétences tout en m'ouvrant aux nouvelles technologies. Grâce à une solide formation en informatique acquise lors de mes études à l'Institut Supérieur des Technologies de l'Information et de la Communication, je suis prêt à m'impliquer dans des projets innovants et à contribuer à des changements positifs dans l'industrie technologique. N'hésitons pas à entrer en contact pour explorer ensemble de nouvelles opportunités ! 🌐
+## 🌍 About Me
 
+Tech enthusiast and perpetual learner passionate about the ever-evolving landscape of IT. My journey in academia has led me to Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT, where I'm actively engaged in sharpening my skills and embracing emerging technologies. With a solid foundation in Computer Science, acquired during my studies at The Higher Institute of Information Technologies and Communication, I'm poised to contribute to innovative projects and drive positive change in the tech industry.
+
+## 🔧 Skills
+- **Programming Languages**: C, Python, Java, PHP
+- **Frameworks**: Laravel, Symfony, VueJS
+- **Mobile Development**: Flutter, FlutterFlow
+- **Testing**: ISTQB, TestLink, Selenium, Cucumber
+- **Methodologies**: Scrum
+
+## 📬 Get in Touch
+I’m always open to discussing new projects, creative ideas, or opportunities to be a part of your vision! Let’s connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedibenarbi/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fedibenarbi)
+
+
+> “After Istanbul 🖤 there's Athens ❤.” 💭
