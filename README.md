@@ -6,9 +6,9 @@
 
 <br/>
 
-✨ Currently pursuing studies in Software Architecture Engineering at Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT 🚀
+Currently pursuing studies in Software Architecture Engineering at Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT 🚀
   
-🎓 Licentiate degree holder in Software Engineering from The Higher Institute of Information Technologies and Communication Borj Cedria 📚
+Licentiate degree holder in Software Engineering from The Higher Institute of Information Technologies and Communication Borj Cedria
 </div>
 
 <hr/>
