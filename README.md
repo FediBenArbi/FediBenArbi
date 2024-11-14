@@ -47,14 +47,14 @@ Tech enthusiast and perpetual learner passionate about the ever-evolving landsca
     <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
     <br>
 </div>
-
 <hr/>
 
 ## 📬 Get in Touch
 
 I’m always open to discussing new projects, creative ideas, or opportunities to be a part of your vision! Let’s connect!
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fedi.benarbi@esprit.tn)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:fedi.benarbi@esprit.tn)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fedibenarbi22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedibenarbi/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fedibenarbi)
 
