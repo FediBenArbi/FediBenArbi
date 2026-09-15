@@ -6,16 +6,16 @@
 
 <br/>
 
-Currently pursuing studies in Software Architecture Engineering at Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT 🚀
-  
-Licentiate degree holder in Software Engineering from The Higher Institute of Information Technologies and Communication Borj Cedria
+QA Engineer holding an Engineering degree in Software Architecture Engineering from ESPRIT, as well as a Licentiate degree in Software Engineering from the Higher Institute of Information Technologies and Communication of Borj Cedria.
 </div>
 
 <hr/>
 
 ## 🌍 About Me
 
-Tech enthusiast and perpetual learner passionate about the ever-evolving landscape of IT. My journey in academia has led me to Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT, where I'm actively engaged in sharpening my skills and embracing emerging technologies. With a solid foundation in Computer Science, acquired during my studies at The Higher Institute of Information Technologies and Communication, I'm poised to contribute to innovative projects and drive positive change in the tech industry.
+Passionate about software quality, test automation and application reliability, I have experience in functional testing, end-to-end testing, test case design, defect analysis and automated testing.
+My technical skills include Selenium, Playwright, Cucumber, JUnit, Allure Report, Python, Java, Git, Docker and CI/CD environments. My software engineering background also gives me a strong understanding of application architecture, backend development and the software development lifecycle.
+Detail-oriented, curious and committed to continuous improvement, I enjoy collaborating in agile environments and contributing to the development of robust, maintainable and high-quality software.
 
 <hr/>
 
